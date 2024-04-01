@@ -1,7 +1,7 @@
 # J3XS + VX Zombie Escape Termux Box mod
 Reuploaded
 
-Gas Nade Added
+Gas Nade explosion color white changed to purple
 
 deleted sandbags
 
