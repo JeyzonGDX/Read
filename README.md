@@ -9,4 +9,4 @@ Server join sound added
 
 models changed
 
-Link : It will be my birthday this month
+Link : https://linkvertise.com/1163830/mod-zombie?o=sharing
